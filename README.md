@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @duongvanngoc995
+- 👋 Hi, I’m @ngocdv6
 - 👀 I’m interested in Rust
 - 🌱 I’m currently learning Rust
 
